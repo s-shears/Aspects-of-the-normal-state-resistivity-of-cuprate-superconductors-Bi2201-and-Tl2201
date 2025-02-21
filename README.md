@@ -5,3 +5,5 @@ The frequency we used to make this data ranges 2^12 points across a relatively w
 The spectral data in our range in omega was fitted to a set of component polynomials, the coefficients of which are stored in the provided files. The Jupyter notebooks retrieve the coefficients and then use them to reconstruct our data. A simple interpolation is also provided at the end to extend our resistivity data to other densities. 
 
 We have also added Mathematica notebooks containing just the resistivity data plotted in our paper.
+
+We have now also included results for LSCO and BSLCO, materials studied in the prior paper "Aspects of the normal state resistivity of cuprate superconductors". These are included here to give the community a complete set of ECFL results for all the single layer compounds we study in one convenient location.
