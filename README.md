@@ -9,5 +9,7 @@ We have also added Mathematica notebooks containing just the resistivity data pl
 We have now also included results for LSCO and BSLCO, materials studied in the prior paper "Aspects of the normal state resistivity of cuprate superconductors". These are included here to give the community a complete set of ECFL results for all the single layer compounds we study in one convenient location.
 
 Papers:
+
 https://doi.org/10.48550/arXiv.2502.00293
+
 https://doi.org/10.48550/arXiv.1911.09119
